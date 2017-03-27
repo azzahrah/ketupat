@@ -1,0 +1,6 @@
+1. Informasi Kemacetan
+   - Jam, Lokasi
+2. Informasi Kecelakaan
+   - Jam, Lokasi, Objects
+3. Informasi Pelanggaran
+   - Jam, Lokasi, Jenis Pelanggaran, Jenis Object
