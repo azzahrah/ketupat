@@ -4,3 +4,7 @@
    - Jam, Lokasi, Objects
 3. Informasi Pelanggaran
    - Jam, Lokasi, Jenis Pelanggaran, Jenis Object
+4. Informasi Status CCTV
+5. Live Streaming Mobile Patroli
+6. Video Conference Mobile Patroli
+7. GPS Position Anggota
